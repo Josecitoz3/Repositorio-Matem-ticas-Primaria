@@ -7,8 +7,6 @@ Aquí encontrarás artículos, guías, videos, cuestionarios y materiales intera
 - [Grado 1](./Grado-1)
 - [Grado 2](./Grado-2)
 - [Grado 3](./Grado-3)
-- [Grado 4](./Grado-4)
-- [Grado 5](./Grado-5)
 
 ## 🛠 Interfaz
 Dentro de la carpeta [`/Interfaz`](./Interfaz) está el código de la aplicación React/Tailwind que organiza los recursos.
