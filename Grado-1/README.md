@@ -11,17 +11,27 @@ Los recursos incluyen artículos, videos, guías, infografías, aplicaciones, cu
 3. [Primeros pasos con sumas y restas – Educa.pe](https://www.educa.pe/matematica/primer-grado)
 4. [Aprendiendo los números – Monografías](https://www.monografias.com/trabajos109/matematicas-primer-grado/matematicas-primer-grado.shtml)
 
+
+---
+
+## 📄 Guías / PDFs
+
+1. [Cuaderno de trabajo – Matemáticas 1° grado](https://conectateamiclase.com/wp-content/uploads/2020/05/MAT%C3%81TICAS-1%C2%BA-CUADERNO-DE-TRABAJO.pdf) — Con actividades para aplicar los temas vistos. :contentReference[oaicite:0]{index=0}  
+2. [Guías para estudiantes Grado 1 (Escuela Nueva, Colombia)](https://contenidos.mineducacion.gov.co/ntg/men/archivos/Referentes_Calidad/Modelos_Flexibles/Escuela_Nueva/Guias_para_estudiantes/MT_Grado01_01.pdf) — Serie de guías A-D con ejercicios progresivos. :contentReference[oaicite:1]{index=1}  
+3. [Matemáticas Estudiante 1 (Cuaderno de actividades)](https://contenidos.mineducacion.gov.co/ntg/men/archivos/Referentes_Calidad/Modelos_Flexibles/Nivelemos_1/Matematicas_estudiante_1.pdf) — Libro + cuaderno de trabajos para nivelación. :contentReference[oaicite:2]{index=2}  
+4. [Primera Cartilla Matemáticas 1° Grado](https://dev.guao.org/biblioteca/matematicas_primer_grado_primera_cartilla) — PDF descargable con la cartilla oficial del Ministerio. :contentReference[oaicite:3]{index=3}  
+5. [“Matemáticas 1er Grado 1-75” PDF de actividades](https://www.imageneseducativas.com/wp-content/uploads/2020/07/MATEM%C3%81TICAS-1ER-GRADO-1-75.pdf) — Actividades para todo el ciclo escolar. :contentReference[oaicite:4]{index=4}  
+
 ---
 
 ## 🎥 Videos
-5. [Matemáticas para 1er grado – YouTube (Smile and Learn)](https://www.youtube.com/watch?v=0hXj0uqvXcI)
-6. [Aprendiendo a contar del 1 al 100 – YouTube](https://www.youtube.com/watch?v=iT_iFX2_Yfc)
 
----
+6. [Contar de 5 en 5 – Canciones Matemáticas Para Niños](https://www.youtube.com/watch?v=Y9zeZCLZnC4) — Canción para practicar conteo creciente. :contentReference[oaicite:5]{index=5}  
+7. [Problema 1. Conteo. Primaria. 1er Grado. Mica](https://www.youtube.com/watch?v=mmDFPKKaeKs) — Video con ejemplos y práctica de conteo. :contentReference[oaicite:6]{index=6}  
+8. [Principios del conteo - Matemáticas para niños](https://www.youtube.com/watch?v=UQq_VFFUkzI) — Explicación clara de los cinco principios del conteo. :contentReference[oaicite:7]{index=7}  
+9. [Numberblocks – Aprende a contar, reconocer números y sumar](https://www.youtube.com/watch?v=KkSXpWjafk0) — Lección de conteo, reconocimiento y operaciones básicas. :contentReference[oaicite:8]{index=8}  
+10. [Figuras triangulares y razonamiento matemático – primer grado](https://www.youtube.com/watch?v=XvOduWjynTM) — Video para identificar y contar figuras geométricas. :contentReference[oaicite:9]{index=9}  
 
-## 📑 Guías y Cuestionarios
-7. [Cuaderno de Matemáticas 1° grado – PDF (Ministerio Educación Perú)](http://repositorio.minedu.gob.pe/bitstream/handle/20.500.12799/6227/Primer%20Grado%20Matem%C3%A1tica.pdf?sequence=1&isAllowed=y)
-8. [Guía Didáctica Matemáticas 1° grado – PDF (Colombia Aprende)](https://aprende.colombiaaprende.edu.co/sites/default/files/naspublic/guia_matematicas_1.pdf)
 
 ---
 
