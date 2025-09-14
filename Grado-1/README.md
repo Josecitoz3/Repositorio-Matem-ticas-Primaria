@@ -41,9 +41,14 @@ Los recursos incluyen artículos, videos, guías, infografías, aplicaciones, cu
 
 ---
 
-## 💻 Aplicaciones
-- [Aplicación "Matemáticas 1° Primaria" – Google Play](https://play.google.com/store/apps/details?id=com.alonso.matematicasprimaria1&hl=es_419)
-- [Juegos de Matemáticas para niños – Cokitos](https://www.cokitos.com/juegos-de-matematicas/)
+## 📱 Aplicaciones
+
+1. *Juegos Matemáticas - 1er grado – PAZU Play & Learn* (Android)
+   Link: [Juegos matemáticas 1er grado](https://play.google.com/store/apps/details?hl=es_US&id=com.pazugames.playandlearn) ([Google Play][7])
+
+2. *Matemáticas para 1er Grado 4+ – Smart Kidz Club Inc.* (App Store)
+   Link: [Matemáticas para 1er Grado (iOS)](https://apps.apple.com/co/app/matem%C3%A1ticas-para-1er-grado/id6447105995) ([Apple][8])
+
 
 ---
 
