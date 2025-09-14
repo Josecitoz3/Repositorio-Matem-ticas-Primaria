@@ -43,12 +43,13 @@ Materiales útiles para estudiantes de **Segundo grado de primaria**, en diferen
 ---
 
 ## 📝 Cuestionarios y Material Evaluativo
-15. [Exámenes de matemáticas 2° primaria – Orientación Andújar (PDF)]([https://www.orientacionandujar.es/wp-content/uploads/2016/04/Examenes-Matem%C3%A1ticas-2-Primaria.pdf) 
+15. [Exámenes de matemáticas 2° primaria – Orientación Andújar (PDF)](https://www.orientacionandujar.es/wp-content/uploads/2016/04/Examenes-Matem%C3%A1ticas-2-Primaria.pdf) 
 ---
 
 ## 📂 Presentaciones
 16. [Sumar en Segundo Primaria (PowerPoint / PDF)](https://es.slideshare.net/slideshow/sumar-en-segundo-primaria-39976842/39976842)  
-17. [Operaciones de sumas y restas con recta numérica (Twinkl PPT)](https://www.twinkl.es/resource/power-point-operaciones-de-sumas-y-restas-con-recta-numerica-sa-m-1726413784) 18. [Medidas y datos – Plantilla interactiva Slidesgo](https://slidesgo.com/es/tema/matematicas-para-2o-de-primaria-medidas-y-datos)
+17. [Operaciones de sumas y restas con recta numérica (Twinkl PPT)](https://www.twinkl.es/resource/power-point-operaciones-de-sumas-y-restas-con-recta-numerica-sa-m-1726413784)
+18. [Medidas y datos – Plantilla interactiva Slidesgo](https://slidesgo.com/es/tema/matematicas-para-2o-de-primaria-medidas-y-datos)
 
 
 ---
