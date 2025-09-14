@@ -24,16 +24,16 @@ Material verificado para **Tercer grado de primaria**: artículos, guías/PDF, l
 
 ## 🎥 Videos 
 6. **TERCERO DE PRIMARIA – Razonamiento matemático: Conteo de segmentos**  
-   https://www.youtube.com/watch?v=v-91v3yO9q0 :contentReference[oaicite:8]{index=8}
+   https://www.youtube.com/watch?v=v-91v3yO9q0 
 
 7. **Conteo de Triángulos – (video educativo)**  
-   https://www.youtube.com/watch?v=NA-DtmlhXPA :contentReference[oaicite:9]{index=9}
+   https://www.youtube.com/watch?v=NA-DtmlhXPA 
 
 8. **Conteo de Cuadriláteros (3° primaria)**  
-   https://www.youtube.com/watch?v=M-iHjnC_iuU :contentReference[oaicite:10]{index=10}
+   https://www.youtube.com/watch?v=M-iHjnC_iuU 
 
 9. **Conteo de ángulos / Ángulos 3° Grado**  
-   https://www.youtube.com/watch?v=RqamB36GXhc :contentReference[oaicite:11]{index=11}
+   https://www.youtube.com/watch?v=RqamB36GXhc 
 
 ---
 
@@ -90,7 +90,7 @@ Material verificado para **Tercer grado de primaria**: artículos, guías/PDF, l
 
 ## 📊 Presentaciones
 23. **SlidesGo — plantillas para lecciones de matemáticas (descarga PPT/Google Slides: sumas, restas, polígonos, fracciones)**  
-   https://slidesgo.com/es/matematicas :contentReference[oaicite:27]{index=27}
+   https://slidesgo.com/es/matematicas 
 
 ---
 
