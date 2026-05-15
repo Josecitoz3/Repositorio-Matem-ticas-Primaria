@@ -56,4 +56,4 @@ Los recursos incluyen artículos, videos, guías, infografías, aplicaciones, cu
 ---
 
 ## 💻 Plataforma 
-[Colombia Aprende](https://contenidosparaaprender.colombiaaprende.edu.co/G_1/M/index.html)
+1. [Colombia Aprende](https://contenidosparaaprender.colombiaaprende.edu.co/G_1/M/index.html)
