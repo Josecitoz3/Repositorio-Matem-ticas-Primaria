@@ -15,11 +15,12 @@ Los recursos incluyen artículos, videos, guías, infografías, aplicaciones, cu
 
 ## 📄 Guías / PDFs
 
-2. [Guías para estudiantes Grado 1 (Escuela Nueva, Colombia)](https://contenidos.mineducacion.gov.co/ntg/men/archivos/Referentes_Calidad/Modelos_Flexibles/Escuela_Nueva/Guias_para_estudiantes/MT_Grado01_01.pdf) — Serie de guías A-D con ejercicios progresivos.  
-3. [Matemáticas Estudiante 1 (Cuaderno de actividades)](https://contenidos.mineducacion.gov.co/ntg/men/archivos/Referentes_Calidad/Modelos_Flexibles/Nivelemos_1/Matematicas_estudiante_1.pdf) — Libro + cuaderno de trabajos para nivelación. 
-4. [Primera Cartilla Matemáticas 1° Grado](https://dev.guao.org/biblioteca/matematicas_primer_grado_primera_cartilla) — PDF descargable con la cartilla oficial del Ministerio. 
-5. [“Matemáticas 1er Grado 1-75” PDF de actividades](https://www.imageneseducativas.com/wp-content/uploads/2020/07/MATEM%C3%81TICAS-1ER-GRADO-1-75.pdf) — Actividades para todo el ciclo escolar. 
-
+1. [Guías para estudiantes Grado 1 (Escuela Nueva, Colombia)](https://contenidos.mineducacion.gov.co/ntg/men/archivos/Referentes_Calidad/Modelos_Flexibles/Escuela_Nueva/Guias_para_estudiantes/MT_Grado01_01.pdf) — Serie de guías A-D con ejercicios progresivos.  
+2. [Matemáticas Estudiante 1 (Cuaderno de actividades)](https://contenidos.mineducacion.gov.co/ntg/men/archivos/Referentes_Calidad/Modelos_Flexibles/Nivelemos_1/Matematicas_estudiante_1.pdf) — Libro + cuaderno de trabajos para nivelación. 
+3. [Primera Cartilla Matemáticas 1° Grado](https://dev.guao.org/biblioteca/matematicas_primer_grado_primera_cartilla) — PDF descargable con la cartilla oficial del Ministerio. 
+4. [“Matemáticas 1er Grado 1-75” PDF de actividades](https://www.imageneseducativas.com/wp-content/uploads/2020/07/MATEM%C3%81TICAS-1ER-GRADO-1-75.pdf) — Actividades para todo el ciclo escolar. 
+5. [Guía matemáticas](https://contenidos.mineducacion.gov.co/ntg/men/archivos/Referentes_Calidad/Modelos_Flexibles/Escuela_Nueva/Guias_para_estudiantes/MT_Grado01_01.pdf
+)
 ---
 
 ## 🎥 Videos
@@ -53,3 +54,6 @@ Los recursos incluyen artículos, videos, guías, infografías, aplicaciones, cu
 
 
 ---
+
+## 💻 Plataforma 
+[](https://contenidosparaaprender.colombiaaprende.edu.co/G_1/M/index.html)
