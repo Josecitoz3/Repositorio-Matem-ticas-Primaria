@@ -1,6 +1,6 @@
 # 📘 Recursos de Matemáticas – Grado 3 
 
-aMaterial verificado para **Tercer grado de primaria**: artículos, guías/PDF, libros, infografías, videos, aplicaciones, cuestionarios (PDF/Word/PPT) y plantillas para presentaciones.
+Material verificado para **Tercer grado de primaria**: artículos, guías/PDF, libros, infografías, videos, aplicaciones, cuestionarios (PDF/Word/PPT) y plantillas para presentaciones.
 
 ---
 
