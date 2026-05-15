@@ -18,7 +18,7 @@ Material verificado para **Tercer grado de primaria**: artículos, guías/PDF, l
    https://conectateamiclase.com/wp-content/uploads/2020/04/Grado-3-Modulo-B-Docente-Matematicas.pdf 
 
 5. **Cuadernillo / Guías (Nicaragua) — Matematica 3, cuadernillo didáctico** (PDF).  
-   https://nicaraguaeduca.mined.gob.ni/wp-content/uploads/2023/03/1.14-CUADERNILLOS-mate-3ero_DL.pdf 
+   https://nicaraguaeduca.mined.gob.ni/wp-content/uploads/2023/03/1.14-CUADERNILLOS-mate-3ero_DL.pdf
 
 ---
 
@@ -54,46 +54,58 @@ Material verificado para **Tercer grado de primaria**: artículos, guías/PDF, l
    https://educacion.gob.ec/wp-content/uploads/downloads/2018/04/curriculo/3ERO-EGB-TEXTO-Matematica.pdf 
 
 14. **Libro de texto / Guía (JICA) — Libro de texto 3° (El Salvador, proyecto)**.  
-   https://www.jica.go.jp/project/elsalvador/004/materials/ku57pq00003u6zom-att/libro_primaria_03.pdf 
+   https://www.jica.go.jp/project/elsalvador/004/materials/ku57pq00003u6zom-att/libro_primaria_03.pdf
+
+15. **Cartilla matematicas 3°**
+   https://drive.google.com/file/d/1rJ0bI1Cq03kNW8xynpikxSclGavuWAm4/view
+   
+16. **Guia docente 3°**
+   https://contenidos.mineducacion.gov.co/ntg/men/archivos/Referentes_Calidad/Modelos_Flexibles/Nivelemos_1/Matematicas_Docente_3.pdf
 
 ---
 
 ## 📱 Aplicaciones  
-15. **Khan Academy – 3º Primaria (lecciones y ejercicios en línea)**  
+17. **Khan Academy – 3º Primaria (lecciones y ejercicios en línea)**  
    https://es.khanacademy.org/math/cc-3rd-grade-math
 
-16. **App Android: "3rd Grade Math: Fun Kids Games" (ejercicios interactivos)**  
+18. **App Android: "3rd Grade Math: Fun Kids Games" (ejercicios interactivos)**  
    https://play.google.com/store/apps/details?id=com.zzm.grade3 
 
-17. **Aplicación educativa ANTON (multi-asignatura, incluye matemática primaria)**  
+19. **Aplicación educativa ANTON (multi-asignatura, incluye matemática primaria)**  
    https://anton.app/es/ 
 
-18. **Listado y reseñas de apps útiles para primaria (artículo con recomendaciones)**  
+20. **Listado y reseñas de apps útiles para primaria (artículo con recomendaciones)**  
    https://www.educaciontrespuntocero.com/recursos/aplicaciones-de-matematicas-gratuitas-para-tu-android/ 
 
 ---
 
 ## ✍️ Cuestionarios 
-19. **Prueba Diagnóstica 3º — ejemplo PDF (formato internacional / diagnóstico)**  
+21. **Prueba Diagnóstica 3º — ejemplo PDF (formato internacional / diagnóstico)**  
    https://www.air.org/sites/default/files/Prueba%20Diagn%C3%B3stica%203%C2%BA%20Matem%C3%A1ticas%20%282011%29.pdf 
 
-20. **Prueba Diagnóstica (Perú) – "Conozcamos nuestros aprendizajes" (3°) — PDF descargable**  
+22. **Prueba Diagnóstica (Perú) – "Conozcamos nuestros aprendizajes" (3°) — PDF descargable**  
    https://repositorio.perueduca.pe/recursos/c-herramientas-curriculares/primaria/transversal/prueba-diagnostica-2021-3.pdf 
 
-21. **Evaluación diagnóstica / ejercicios imprimibles (ImagenesEducativas) — pack 3°**  
+23. **Evaluación diagnóstica / ejercicios imprimibles (ImagenesEducativas) — pack 3°**  
    https://www.imageneseducativas.com/wp-content/uploads/2022/08/EXAMEN-DIAGNOSTICO-3o-GRADO-2022-2023.pdf 
 
-22. **Banco de exámenes y ejercicios (Scribd / Slideshare) — varias pruebas para adaptar en Word/PDF**  
+24. **Banco de exámenes y ejercicios (Scribd / Slideshare) — varias pruebas para adaptar en Word/PDF**  
    https://es.scribd.com/ (buscar "Prueba Mat 3ro grado") — ejemplo: https://es.scribd.com/document/585266234/PRUEBA-MAT-3ro-grado 
 
 ---
 
 ## 📊 Presentaciones
-23. **SlidesGo — plantillas para lecciones de matemáticas (descarga PPT/Google Slides: sumas, restas, polígonos, fracciones)**  
+25. **SlidesGo — plantillas para lecciones de matemáticas (descarga PPT/Google Slides: sumas, restas, polígonos, fracciones)**  
    https://slidesgo.com/es/matematicas 
 
 ---
 
 ## 🔗 Enlace web 
-24. **Santillana Plus – libro digital "Matemáticas 3" (navegable)**  
-   https://santillanaplus.com.co/libros/files/2016/pdf/saberes_primaria/MATEMATICAS/MATEMATICAS-3-SABERES/mobile/index.html 
+26. **Santillana Plus – libro digital "Matemáticas 3" (navegable)**  
+   https://santillanaplus.com.co/libros/files/2016/pdf/saberes_primaria/MATEMATICAS/MATEMATICAS-3-SABERES/mobile/index.html
+
+--- 
+
+## 💻 Plataforma
+27. **Colombia Aprende**
+    https://contenidosparaaprender.colombiaaprende.edu.co/G_3/M/index.html
