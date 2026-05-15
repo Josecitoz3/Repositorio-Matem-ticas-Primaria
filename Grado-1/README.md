@@ -1,6 +1,6 @@
 # 📘 Recursos de Matemáticas – Grado 1
 
-aAquí encontrarás materiales útiles para estudiantes de **primer grado de primaria**.  
+Aquí encontrarás materiales útiles para estudiantes de **primer grado de primaria**.  
 Los recursos incluyen artículos, videos, guías, infografías, aplicaciones, cuestionarios y presentaciones.
 
 ---
