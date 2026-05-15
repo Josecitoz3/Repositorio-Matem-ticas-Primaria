@@ -28,42 +28,46 @@ Palabras clave: matemáticas, operaciones básicas, suma, resta, educación bá
 4. [Guía oficial Matemáticas Grado 2 (Escuela Nueva, Colombia)](https://contenidos.mineducacion.gov.co/ntg/men/archivos/Referentes_Calidad/Modelos_Flexibles/Escuela_Nueva/Guias_para_estudiantes/MT_Grado02_01.pdf)  
 5. [Libro cuaderno estudiante Grado 2](https://contenidos.mineducacion.gov.co/ntg/men/archivos/Referentes_Calidad/Modelos_Flexibles/Nivelemos_1/Matematicas_estudiante_2.pdf)  
 6. [Guía Matemáticas Grado 2 – Meduca Panamá](https://guias.meduca.gob.pa/sites/default/files/2020-07/02%20-%20Prim%20-%20Matem%C3%A1ticas.pdf)  
-
+7. [Cartilla matematicas 2°](https://redaprende.colombiaaprende.edu.co/metadatos/recurso/matematicas-2-segunda-cartilla/)
+   
 ---
 
 ## 🖼️ Infografías
-7. [Figuras Geométricas para Segundo de Primaria (PDF / Word) – Educaremos.com](https://educaremos.com/logico-matematica-para-segundo-de-primaria/figuras-geometricas-2/) — Ficha para reconocer y clasificar formas.  
-8. [Reconozco Figuras Geométricas – PDF / Word – DescargaMatematicas](https://descargamatematicas.com/descargar-reconozco-figuras-geometricas-segundo-de-primaria/) — Actividades de colorear, identificar y escribir figuras. 
-9. [Láminas Figuras Geométricas – Manualidades Educativas (PDF) ](https://manualidadeseducativas.com/matematicas/laminas-figuras-geometricas/) — Láminas para imprimir, ideales para exponer o usar como apoyo visual.
+8. [Figuras Geométricas para Segundo de Primaria (PDF / Word) – Educaremos.com](https://educaremos.com/logico-matematica-para-segundo-de-primaria/figuras-geometricas-2/) — Ficha para reconocer y clasificar formas.  
+9. [Reconozco Figuras Geométricas – PDF / Word – DescargaMatematicas](https://descargamatematicas.com/descargar-reconozco-figuras-geometricas-segundo-de-primaria/) — Actividades de colorear, identificar y escribir figuras. 
+10. [Láminas Figuras Geométricas – Manualidades Educativas (PDF) ](https://manualidadeseducativas.com/matematicas/laminas-figuras-geometricas/) — Láminas para imprimir, ideales para exponer o usar como apoyo visual.
 
 ---
 
 ## 📚 Libros
-10. [Colección Libros de Texto Grado 2 – Colombia](https://librosdetextocolombia.com/grado-segundo/)  
-11. [Matemáticas segundo grado – Libro Digital SEP (México)](https://libros.conaliteg.gob.mx/2022/P2MAA.htm)  
+11. [Colección Libros de Texto Grado 2 – Colombia](https://librosdetextocolombia.com/grado-segundo/)  
+12. [Matemáticas segundo grado – Libro Digital SEP (México)](https://libros.conaliteg.gob.mx/2022/P2MAA.htm)  
 
 ---
 
 ## 🎥 Videos
-12. [Sumando y restando con la recta numérica – YouTube](https://www.youtube.com/watch?v=IcX-koML3sc)  
-13. [Formando y ordenando cantidades – YouTube](https://www.youtube.com/watch?v=PaEXN2T5ISk)  
-14. [Sumas y restas en segundo grado – YouTube](https://www.youtube.com/watch?v=9RYr5vK6qmU)  
+13. [Sumando y restando con la recta numérica – YouTube](https://www.youtube.com/watch?v=IcX-koML3sc)  
+14. [Formando y ordenando cantidades – YouTube](https://www.youtube.com/watch?v=PaEXN2T5ISk)  
+15. [Sumas y restas en segundo grado – YouTube](https://www.youtube.com/watch?v=9RYr5vK6qmU)  
 
 ---
 
 ## 💻 Aplicaciones  
-15. [Juegos de Matemáticas – Cokitos](https://www.cokitos.com/juegos-de-matematicas/)  
+16. [Juegos de Matemáticas – Cokitos](https://www.cokitos.com/juegos-de-matematicas/)  
 
 ---
 
 ## 📝 Cuestionarios y Material Evaluativo
-16. [Exámenes de matemáticas 2° primaria – Orientación Andújar (PDF)](https://www.orientacionandujar.es/wp-content/uploads/2016/04/Examenes-Matem%C3%A1ticas-2-Primaria.pdf) 
+17. [Exámenes de matemáticas 2° primaria – Orientación Andújar (PDF)](https://www.orientacionandujar.es/wp-content/uploads/2016/04/Examenes-Matem%C3%A1ticas-2-Primaria.pdf) 
 ---
 
 ## 📂 Presentaciones
-17. [Sumar en Segundo Primaria (PowerPoint / PDF)](https://es.slideshare.net/slideshow/sumar-en-segundo-primaria-39976842/39976842)  
-18. [Operaciones de sumas y restas con recta numérica (Twinkl PPT)](https://www.twinkl.es/resource/power-point-operaciones-de-sumas-y-restas-con-recta-numerica-sa-m-1726413784)
-19. [Medidas y datos – Plantilla interactiva Slidesgo](https://slidesgo.com/es/tema/matematicas-para-2o-de-primaria-medidas-y-datos)
+18. [Sumar en Segundo Primaria (PowerPoint / PDF)](https://es.slideshare.net/slideshow/sumar-en-segundo-primaria-39976842/39976842)  
+19. [Operaciones de sumas y restas con recta numérica (Twinkl PPT)](https://www.twinkl.es/resource/power-point-operaciones-de-sumas-y-restas-con-recta-numerica-sa-m-1726413784)
+20. [Medidas y datos – Plantilla interactiva Slidesgo](https://slidesgo.com/es/tema/matematicas-para-2o-de-primaria-medidas-y-datos)
 
 
 ---
+
+## 💻 Platarforma 
+[Colombia Aprende](https://contenidosparaaprender.colombiaaprende.edu.co/G_2/M/index.html)
