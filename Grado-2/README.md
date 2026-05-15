@@ -1,6 +1,6 @@
 # 📘 Recursos de Matemáticas – Grado 2
 
-aMateriales útiles para estudiantes de **Segundo grado de primaria**, en diferentes formatos (artículos, guías, infografías, libros, apps, cuestionarios, videos, presentaciones).
+Materiales útiles para estudiantes de **Segundo grado de primaria**, en diferentes formatos (artículos, guías, infografías, libros, apps, cuestionarios, videos, presentaciones).
 
 ---
 ## 🧩 Actividad
