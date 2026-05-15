@@ -1,6 +1,6 @@
 # 📘 Repositorio Matemáticas Primaria
 
-Este repositorio contiene recursos de Matemáticas para estudiantes de **1° a 3° de primaria**.  
+aEste repositorio contiene recursos de Matemáticas para estudiantes de **1° a 3° de primaria**.  
 Aquí encontrarás artículos, guías, videos, cuestionarios y materiales interactivos.
 
 ## 📂 Organización por grados
