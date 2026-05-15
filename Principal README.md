@@ -20,6 +20,6 @@ Qué encontrarás aquí?
 4. Juegos matemáticos
 5. Infografías
 6. Actividades interactivas
-7. Plataforma
+7. Plataformas
 
 Este repositorio se fundamenta en el aprendizaje significativo de David Ausubel y en enfoques pedagógicos que promueven el aprendizaje activo, contextualizado y participativo.
