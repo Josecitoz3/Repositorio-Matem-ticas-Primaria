@@ -14,12 +14,12 @@ Aquí encontrarás recursos interactivos, juegos, guías, videos y materiales di
 Se busca brindar recursos accesibles, dinámicos y contextualizados que fortalezcan el pensamiento matemático y promuevan un aprendizaje significativo desde los primeros años escolares. 
 
 Qué encontrarás aquí?
--Artículos educativos
--Guías pedagógicas
--Videos explicativos
--Juegos matemáticos
--Infografías
--Actividades interactivas
--Plataforma
+1. Artículos educativos
+2. Guías pedagógicas
+3. Videos explicativos
+4. Juegos matemáticos
+5. Infografías
+6. Actividades interactivas
+7. Plataforma
 
 Este repositorio se fundamenta en el aprendizaje significativo de David Ausubel y en enfoques pedagógicos que promueven el aprendizaje activo, contextualizado y participativo.
