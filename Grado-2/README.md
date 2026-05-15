@@ -70,4 +70,4 @@ Palabras clave: matemáticas, operaciones básicas, suma, resta, educación bá
 ---
 
 ## 💻 Platarforma 
-[Colombia Aprende](https://contenidosparaaprender.colombiaaprende.edu.co/G_2/M/index.html)
+21. [Colombia Aprende](https://contenidosparaaprender.colombiaaprende.edu.co/G_2/M/index.html)
